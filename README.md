@@ -1,2 +1,2 @@
-# multiclassAssignment
+# MulticlassAssignment
 intenrship assignment 
